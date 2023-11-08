@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&random=false&width=435&lines=Greetings+Everyone+!;This+is+Ali;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 <!--
 **PC0907/PC0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
