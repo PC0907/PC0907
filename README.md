@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&random=false&width=435&lines=Greetings+Everyone+!;This+is+Ali;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
-I am currently a third year undergraduate majoring in computer engineering<br>I am looking for internships related to the field of data science and artificial intelligence<br>I am currently working on a project related to the field of bayesian computation and inference<br>
+I am a final year undergraduate majoring in computer engineering<br>I am looking for internships related to the field of data science and artificial intelligence<br>I am currently working on a project related to the field of bayesian computation and inference<br>
 
 
 ## 🌐 Socials:
